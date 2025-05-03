@@ -1,0 +1,6 @@
+"Collection_Action {Product addition, product removal}",Collection_ID,Collection_Name,Product_ID ,Collection_Action_Date
+Product addition,Collection_cable,,Prod_1,01/17/2025
+Product addition,Collection_cable,,Prod_7,01/17/2025
+Product addition,Collection_cable,,Prod_9,01/17/2025
+Product addition,Collection_cable,,Prod_10,01/17/2025
+product removal,Collection_cable,,Prod_1,01/20/2025

@@ -1,0 +1,12 @@
+Product_ID,Product_Name,Category_L1,Category_L2,Creation_Date ,Product_Cost,Removal_Date
+Prod_1,Wireless Grey Mouse,Electronics,Computer Accessories,1/1/2025,$1.0,1/16/2025
+Prod_2,Bluetooth Keyboard,Electronics,Computer Accessories,1/1/2025,$2.5,
+Prod_3,USB-C Hub,Electronics,Computer Accessories,1/1/2025,$3.0,
+Prod_4,Laptop Stand,Electronics,Computer Accessories,1/1/2025,$4.0,
+Prod_5,Portable SSD 1TB,Electronics,Storage Devices,1/20/2025,$10.0,
+Prod_6,Webcam HD 1080p,Electronics,Cameras & Optics,1/5/2025,$5.0,
+Prod_7,USB-C Charging Cable 10 cm,Electronics,Power & Electrical Supplies,1/17/2025,$0.8,
+Prod_8,Wireless Charging Pad,Electronics,Power & Electrical Supplies,1/1/2025,$2.0,
+Prod_18,Laptop Sleeve 13inch,Electronics,Computer Accessories,1/5/2025,$2.8,1/20/2025
+Prod_9,USB-C Charging Cable 20 cm,Electronics,Power & Electrical Supplies,1/17/2025,$2.0,
+Prod_10,USB-C Charging Cable 50 cm,Electronics,Power & Electrical Supplies,1/17/2025,$3.0,

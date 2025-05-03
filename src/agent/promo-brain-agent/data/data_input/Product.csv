@@ -1,0 +1,12 @@
+Product_ID,Category_L1,Category_L2,daily_Unit_Sold_L7D,Daily_Customers_L7D,Daily_New_Customers_L7D,Daily_New_Customers_Discounted_L7D,AIQ_L7D,AIV_New_Customers_L7D,AIV_Discounted_New_Customers_L7D,AIQ_New_Customers_L7D,Product_cost_New_Customers_L7D,Net_Profit_New_Customers_L7D,daily_Unit_Sold_L30D,Daily_Customers_L30D,Daily_New_Customers_L30D,Daily_New_Customers_Discounted_L30D,AIQ_L30D,AIV_New_Customers_L30D,AIV_Discounted_New_Customers_L30D,AIQ_New_Customers_L30D,Product_cost_L30D,Net_Profit_New_Customers_L30D
+Prod_1,Electronics,Computer Accessories,0.7,0.7,0.7,0.7142857143,1,$4.5,$1.5,1,$1.00,$0.40,0.9,0.8,0.7,0.6666666667,1.1,$4.5,$2.2,1.142857143,$1.00,$0.90
+Prod_2,Electronics,Computer Accessories,0.0,0.0,0.0,0,,,,,$2.50,,0.1666666667,0.1666666667,0.1,0.06666666667,1.0,$11.0,$11.0,1,$2.50,$0.60
+Prod_3,Electronics,Computer Accessories,0.1,0.1,0.0,0,1,$13.0,$13.0,,$3.00,,0.1333333333,0.1333333333,0.03333333333,0.03333333333,1.0,$12.0,$11.3,1,$3.00,$0.30
+Prod_4,Electronics,Computer Accessories,0.1,0.1,0.0,0,1,$17.0,$17.0,,$4.00,,0.1333333333,0.1333333333,0,0,1.0,$18.5,$18.5,,$4.00,
+Prod_5,Electronics,Storage Devices,0.0,0.0,0.0,0,,,,,$10.00,,0.03333333333,0.03333333333,0,0,1.0,$29.0,$29.0,,$10.00,
+Prod_6,Electronics,Cameras & Optics,0.1,0.1,0.0,0,1,$15.0,$15.0,,$5.00,,0.06666666667,0.06666666667,0,0,1.0,$15.0,$15.0,,$5.00,
+Prod_7,Electronics,Power & Electrical Supplies,1.4,1.4,1.3,0.7142857143,1,$4.3,$3.2,1,$0.80,$1.70,0.6333333333,0.5666666667,0.5,0.3333333333,1.1,$4.2,$2.6,1,$0.80,$0.60
+Prod_8,Electronics,Power & Electrical Supplies,0.0,0.0,0.0,0,,,,,$2.00,,0.1666666667,0.1333333333,0.06666666667,0.06666666667,1.3,$6.0,$4.2,1,$2.00,$0.10
+Prod_18,Electronics,Computer Accessories,0.0,0.0,0.0,0,,,,,$2.80,,0.03333333333,0.03333333333,0,0,1.0,$14.0,$14.0,,$2.80,
+Prod_9,Electronics,Power & Electrical Supplies,1.0,0.7,0.4,0.4285714286,1.4,$6.0,$3.3,1,$2.00,$0.60,0.5666666667,0.3666666667,0.1666666667,0.1666666667,1.5,$6.0,$3.1,1,$2.00,$0.20
+Prod_10,Electronics,Power & Electrical Supplies,0.4,0.3,0.0,0,1.5,$7.0,$3.9,,$3.00,,0.2,0.1666666667,0,0,1.2,$7.0,$4.8,,$3.00,

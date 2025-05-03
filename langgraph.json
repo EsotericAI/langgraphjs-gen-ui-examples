@@ -3,10 +3,12 @@
   "graphs": {
     "agent": "./src/agent/supervisor/index.ts:graph",
     "email_agent": "./src/agent/email-agent/index.ts:agent",
-    "chat": "./src/agent/chat-agent/index.ts:agent"
+    "chat": "./src/agent/chat-agent/index.ts:agent",
+    "promo_brain_agent": "./src/agent/promo-brain-agent/index.ts:agent"
   },
   "ui": {
-    "agent": "./src/agent-uis/index.tsx"
+    "agent": "./src/agent-uis/index.tsx",
+    "promo_brain_agent": "./src/agent-uis/index.tsx"
   },
   "env": ".env",
   "dependencies": ["."]

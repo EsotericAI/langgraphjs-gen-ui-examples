@@ -1,0 +1,3 @@
+Creation_Date,Segment_ID,Customer_Segment_Inclusion_Conditions
+01/05/2025,Seg_New,All users with 0 historical orders (users are not customers)
+01/05/2025,Seg_first_order,All users with 1 historical order (users are not customers)

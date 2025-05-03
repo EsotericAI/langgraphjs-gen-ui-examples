@@ -1,0 +1,11 @@
+id,name,category,price,stock
+1,iPhone 14,Electronics,799.99,45
+2,Samsung Galaxy S22,Electronics,749.99,38
+3,MacBook Pro,Computers,1299.99,20
+4,Dell XPS 13,Computers,999.99,15
+5,AirPods Pro,Accessories,249.99,78
+6,Sony WH-1000XM4,Accessories,349.99,32
+7,iPad Air,Tablets,599.99,54
+8,Amazon Echo,Smart Home,99.99,120
+9,Nintendo Switch,Gaming,299.99,25
+10,PlayStation 5,Gaming,499.99,12 

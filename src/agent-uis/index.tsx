@@ -6,6 +6,8 @@ import BuyStock from "./stockbroker/buy-stock";
 import Plan from "./open-code/plan";
 import ProposedChange from "./open-code/proposed-change";
 import { Writer } from "./writer";
+import BizDate from "./promo-brain/biz-date/index";
+import CSVPreview from "./promo-brain/csv-preview/index";
 
 const ComponentMap = {
   "stock-price": StockPrice,
@@ -16,5 +18,7 @@ const ComponentMap = {
   "code-plan": Plan,
   "proposed-change": ProposedChange,
   writer: Writer,
+  "biz-date": BizDate,
+  "csv-preview": CSVPreview,
 } as const;
 export default ComponentMap;
